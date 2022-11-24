@@ -20,4 +20,4 @@
 
 ![](https://github.com/VishalGowthaman/Experiment-11-programming-logic-device-s-FPGA-BOARDS-/blob/main/WhatsApp%20Image%202022-06-16%20at%204.06.22%20PM.jpeg)
 
-            Thus we have understand the standard procedure to interface an FPGA board and flashing method using usb blaster. 
+   Thus we have understand the standard procedure to interface an FPGA board and flashing method using usb blaster. 
